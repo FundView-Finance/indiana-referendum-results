@@ -1,24 +1,56 @@
 {
-  "updated": "2026-11-04T06:39:00-05:00",
-  "updatedLabel": "6:39 AM ET, November 4, 2026",
+  "updated": "2026-11-04T07:00:00-05:00",
+  "updatedLabel": "7:00 AM ET, November 4, 2026",
   "election": "November 3, 2026 general election",
-  "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
+  "note": "All results are unofficial until each county certifies. Percentages come from county election reports where published, otherwise from the news outlets named on each row; early-evening counts are flagged. A district is marked passed or failed when the county count is complete or a statewide tracker has called it. Eminence Community Schools withdrew its question before the election.",
   "sources": [
+    {
+      "name": "WRTV statewide referendum tracker",
+      "url": "https://www.wrtv.com/news/election/hoosiers-vote-on-38-indiana-school-spending-referendums/"
+    },
     {
       "name": "IASBO election night tracker",
       "url": "https://www.linkedin.com/company/indiana-association-of-school-business-officials/"
     },
     {
-      "name": "WRTV statewide referendum tracker",
-      "url": "https://www.wrtv.com/news/election/hoosiers-vote-on-38-indiana-school-spending-referendums/"
+      "name": "Current Publishing (Hamilton and Boone counties)",
+      "url": "https://youarecurrent.com/2026/11/03/2026-general-election-results-hamilton-boone-and-hendricks-counties/"
+    },
+    {
+      "name": "Lake County Election Board",
+      "url": "https://lakecountyin.gov/departments/voters/election-results-c/2026GeneralElectionResults/Lake_ElecSumm_All.htm"
+    },
+    {
+      "name": "Madison County Election Board",
+      "url": "https://www.madisoncounty.in.gov/election-results"
+    },
+    {
+      "name": "Daily Journal (Johnson County)",
+      "url": "https://dailyjournal.net/2026/11/03/final-results-2026-election-results-for-johnson-county/"
+    },
+    {
+      "name": "Mirror Indy (Marion County)",
+      "url": "https://mirrorindy.org/vote/2026-general-election-results/"
     },
     {
       "name": "Chalkbeat Indiana",
       "url": "https://www.chalkbeat.org/indiana/2026/11/03/indianapolis-tax-measure-for-ips-and-charter-schools-live-election-results/"
     },
     {
-      "name": "Mirror Indy",
-      "url": "https://mirrorindy.org/vote/2026-general-election-results/"
+      "name": "95.3 MNC (Elkhart and LaPorte counties)",
+      "url": "https://www.953mnc.com/2026/11/04/2026-midterm-election-results/"
+    },
+    {
+      "name": "Porter County",
+      "url": "https://app.enhancedvoting.com/results/public/porter-county-in/GeneralNov032026"
+    },
+    {
+      "name": "Clay County",
+      "url": "https://library.claycountyin.gov/user/pages/election/ElectionSummary.html"
+    },
+    {
+      "name": "Bartholomew County",
+      "url": "https://www.bartholomew.in.gov/election-results.html"
     }
   ],
   "districts": [
@@ -26,12 +58,13 @@
       "name": "Anderson Community School Corporation",
       "county": "Madison",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 49.8,
+      "no": 50.2,
       "status": "failed",
-      "source": "WRTV",
-      "asOf": "3:11 AM",
-      "note": "Called denied by WRTV; it led 52.9% yes on the first county count at 8:40 PM"
+      "source": "Madison County Election Board",
+      "asOf": "10:24 PM Nov 3",
+      "note": "8,466 yes, 8,548 no; failed by 82 votes; all 112 precincts",
+      "pctIn": 100
     },
     {
       "name": "Barr-Reeve Community Schools",
@@ -41,18 +74,19 @@
       "no": null,
       "status": "passed",
       "source": "WRTV",
-      "asOf": "10:28 PM"
+      "asOf": "10:28 PM",
+      "note": "Called by WRTV and WISH-TV; county totals not yet published"
     },
     {
       "name": "Bartholomew Consolidated School Corporation",
       "county": "Bartholomew",
       "kind": "Operating",
-      "yes": 65.4,
-      "no": 34.6,
+      "yes": 61.1,
+      "no": 38.9,
       "status": "passed",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "Called by WRTV 10:08 PM; 65.4% yes on IASBO count at 8:40 PM"
+      "source": "Bartholomew County",
+      "asOf": "8:44 PM Nov 3",
+      "note": "12,913 yes, 8,227 no; called by WRTV 10:08 PM"
     },
     {
       "name": "Beech Grove City Schools",
@@ -69,23 +103,25 @@
       "name": "Carmel Clay Schools",
       "county": "Hamilton",
       "kind": "Operating",
-      "yes": 60,
-      "no": 40,
+      "yes": 58.1,
+      "no": 41.9,
       "status": "passed",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "Called by WRTV 11:06 PM; 60.0% yes on IASBO count at 8:40 PM"
+      "source": "Hamilton County via Current Publishing",
+      "asOf": "10:27 PM Nov 3",
+      "note": "24,669 yes, 17,812 no; all 234 precincts",
+      "pctIn": 100
     },
     {
       "name": "Clark-Pleasant Community School Corporation",
       "county": "Johnson",
       "kind": "Operating",
-      "yes": 54.9,
-      "no": 45.1,
+      "yes": 55.7,
+      "no": 44.3,
       "status": "passed",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "Called by WRTV 3:46 AM"
+      "source": "Johnson County via Daily Journal",
+      "asOf": "Nov 3 final county report",
+      "note": "5,433 yes, 4,314 no",
+      "pctIn": 100
     },
     {
       "name": "Crown Point Community School Corporation",
@@ -95,9 +131,9 @@
       "no": 47.3,
       "status": "passed",
       "source": "Lake County Election Board",
-      "asOf": "11:49 PM",
+      "asOf": "10:49 PM Nov 3",
       "pctIn": 99,
-      "note": "Called by WRTV 3:46 AM"
+      "note": "9,406 yes, 8,451 no; 334 of 336 county precincts"
     },
     {
       "name": "Culver Community School Corporation",
@@ -107,29 +143,32 @@
       "no": 43.1,
       "status": "leading",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "IASBO early count; Starke County portion final at 173 yes, 218 no; Marshall, Pulaski and Fulton county totals not yet published"
     },
     {
       "name": "Elwood Community School Corporation",
       "county": "Madison",
       "kind": "Operating",
-      "yes": 47.1,
-      "no": 52.9,
+      "yes": 47,
+      "no": 53,
       "status": "failed",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "Called by WRTV 10:08 PM; 47.1% yes on IASBO count at 8:40 PM"
+      "source": "Madison County Election Board",
+      "asOf": "10:24 PM Nov 3",
+      "note": "1,259 yes, 1,417 no; all 112 precincts",
+      "pctIn": 100
     },
     {
       "name": "Franklin Community School Corporation",
       "county": "Johnson",
       "kind": "Operating",
-      "yes": 49.8,
-      "no": 50.2,
+      "yes": 48.2,
+      "no": 51.8,
       "status": "failed",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "Reported narrowly defeated by FOX59; 49.8% yes on IASBO count at 8:40 PM"
+      "source": "Johnson County via Daily Journal",
+      "asOf": "Nov 3 final county report",
+      "note": "4,395 yes, 4,717 no",
+      "pctIn": 100
     },
     {
       "name": "Frontier School Corporation",
@@ -150,10 +189,10 @@
       "yes": 58.3,
       "no": 41.7,
       "status": "passed",
-      "source": "Hamilton County via LarryInFishers",
-      "asOf": "9:34 PM",
-      "note": "Called by WRTV 10:08 PM; 219 of 234 county precincts reporting",
-      "pctIn": 94
+      "source": "Hamilton County via Current Publishing",
+      "asOf": "10:27 PM Nov 3",
+      "note": "25,624 yes, 18,309 no; all 234 precincts",
+      "pctIn": 100
     },
     {
       "name": "Indianapolis Public Schools",
@@ -187,7 +226,7 @@
       "status": "failed",
       "source": "IASBO",
       "asOf": "8:40 PM",
-      "note": "Called by WRTV 3:46 AM; 49.9% yes on IASBO count at 8:40 PM"
+      "note": "Called denied by WRTV 3:46 AM; IASBO early count 49.9% yes; county totals not yet published"
     },
     {
       "name": "MSD of Decatur Township",
@@ -204,12 +243,13 @@
       "name": "MSD of Shakamak",
       "county": "Greene, Clay",
       "kind": "Operating",
-      "yes": 49.6,
-      "no": 50.4,
+      "yes": 51.3,
+      "no": 48.7,
       "status": "leading",
-      "source": "Greene County early report",
-      "asOf": "7:51 PM Nov 3",
-      "note": "Greene County portion only; Clay County not yet reported"
+      "source": "Clay and Greene county reports",
+      "asOf": "Nov 3 evening",
+      "note": "Clay County final: 230 yes, 186 no. Greene County 7:51 PM report: 489 yes, 497 no, may not be complete",
+      "pctIn": null
     },
     {
       "name": "MSD of Washington Township",
@@ -237,12 +277,13 @@
       "name": "Noblesville Schools",
       "county": "Hamilton",
       "kind": "Operating",
-      "yes": 58.4,
-      "no": 41.6,
+      "yes": 57.2,
+      "no": 42.8,
       "status": "passed",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "Called by WRTV 10:22 PM; 58.4% yes on IASBO count at 8:40 PM"
+      "source": "Hamilton County via Current Publishing",
+      "asOf": "10:27 PM Nov 3",
+      "note": "15,211 yes, 11,393 no; all 234 precincts",
+      "pctIn": 100
     },
     {
       "name": "Oak Hill United School Corporation",
@@ -252,17 +293,20 @@
       "no": 50.2,
       "status": "leading",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "IASBO early count; Grant and Miami county totals not yet published"
     },
     {
       "name": "Oregon-Davis School Corporation",
       "county": "Starke",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 52.1,
+      "no": 47.9,
       "status": "passed",
-      "source": "WRTV",
-      "asOf": "3:46 AM"
+      "source": "Starke County via WKVI",
+      "asOf": "all 21 precincts",
+      "pctIn": 100,
+      "note": "605 yes, 556 no; called by WRTV 3:46 AM"
     },
     {
       "name": "Pike County School Corporation",
@@ -272,17 +316,19 @@
       "no": null,
       "status": "failed",
       "source": "WRTV",
-      "asOf": "3:46 AM"
+      "asOf": "3:46 AM",
+      "note": "Called by WRTV and WISH-TV; county totals not yet published"
     },
     {
       "name": "Porter Township School Corporation",
       "county": "Porter",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 54.8,
+      "no": 45.2,
       "status": "passed",
-      "source": "WRTV",
-      "asOf": "3:46 AM"
+      "source": "Porter County unofficial",
+      "asOf": "6:35 AM",
+      "note": "1,020 yes, 843 no; called by WRTV 3:46 AM"
     },
     {
       "name": "River Forest Community School Corporation",
@@ -292,41 +338,45 @@
       "no": 40.5,
       "status": "passed",
       "source": "Lake County Election Board",
-      "asOf": "11:49 PM",
+      "asOf": "10:49 PM Nov 3",
       "pctIn": 99,
-      "note": "Called by WRTV 3:46 AM"
+      "note": "828 yes, 564 no; called by WRTV 3:46 AM"
     },
     {
       "name": "School City of Whiting",
       "county": "Lake",
-      "kind": "Construction",
-      "yes": 57.4,
-      "no": 42.6,
+      "kind": "Operating and construction",
+      "yes": 61.8,
+      "no": 38.2,
       "status": "passed",
       "source": "Lake County Election Board",
-      "asOf": "11:49 PM",
+      "asOf": "10:49 PM Nov 3",
       "pctIn": 99,
-      "note": "Called by WRTV 12:09 AM; 334 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 61.8% yes"
+      "note": "Two questions, both passed. Operating (Question 3): 761 yes, 470 no. Construction (Question 4, $39.3 million): 706 yes, 525 no, 57.4% yes. 334 of 336 county precincts"
     },
     {
       "name": "Sheridan Community Schools",
       "county": "Hamilton, Boone",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 46.7,
+      "no": 53.3,
       "status": "failed",
-      "source": "WRTV",
-      "asOf": "11:06 PM"
+      "source": "Hamilton and Boone counties via Current Publishing",
+      "asOf": "Nov 3, all precincts",
+      "pctIn": 100,
+      "note": "Hamilton County 931 yes, 1,022 no; Boone County 173 yes, 236 no"
     },
     {
       "name": "Shelbyville Central Schools",
       "county": "Shelby",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 46.8,
+      "no": 53.2,
       "status": "failed",
-      "source": "WRTV",
-      "asOf": "8:13 PM"
+      "source": "Shelby County via GIANT fm",
+      "asOf": "Nov 3 final county report",
+      "pctIn": 100,
+      "note": "2,586 yes, 2,946 no"
     },
     {
       "name": "Smith-Green Community Schools",
@@ -336,7 +386,8 @@
       "no": null,
       "status": "counting",
       "source": "",
-      "asOf": ""
+      "asOf": "",
+      "note": "Noble and Whitley county totals not yet published"
     },
     {
       "name": "Southeast Dubois County School Corporation",
@@ -346,7 +397,8 @@
       "no": null,
       "status": "passed",
       "source": "WRTV",
-      "asOf": "8:13 PM"
+      "asOf": "8:13 PM",
+      "note": "Called by WRTV and WISH-TV; county totals not yet published"
     },
     {
       "name": "Tipton Community School Corporation",
@@ -356,7 +408,8 @@
       "no": null,
       "status": "failed",
       "source": "WRTV",
-      "asOf": "10:08 PM"
+      "asOf": "10:08 PM",
+      "note": "Called by WRTV and WISH-TV; county totals not yet published"
     },
     {
       "name": "Tri-Central Community Schools",
@@ -366,7 +419,8 @@
       "no": null,
       "status": "failed",
       "source": "WRTV",
-      "asOf": "10:28 PM"
+      "asOf": "10:28 PM",
+      "note": "Called by WRTV and WISH-TV; county totals not yet published"
     },
     {
       "name": "Tri-Creek School Corporation",
@@ -376,9 +430,9 @@
       "no": 44.5,
       "status": "passed",
       "source": "Lake County Election Board",
-      "asOf": "11:49 PM",
+      "asOf": "10:49 PM Nov 3",
       "pctIn": 99,
-      "note": "Called by WRTV 3:46 AM"
+      "note": "4,678 yes, 3,745 no; called by WRTV 3:46 AM"
     },
     {
       "name": "Union Township School Corporation",
@@ -394,7 +448,7 @@
     {
       "name": "Wa-Nee Community Schools",
       "county": "Elkhart, Kosciusko",
-      "kind": "Operating",
+      "kind": "School safety",
       "yes": 61,
       "no": 39,
       "status": "leading",
@@ -418,21 +472,25 @@
       "name": "Westfield Washington Schools",
       "county": "Hamilton",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 56,
+      "no": 44,
       "status": "passed",
-      "source": "WRTV",
-      "asOf": "11:06 PM"
+      "source": "Hamilton County via Current Publishing",
+      "asOf": "10:27 PM Nov 3",
+      "pctIn": 100,
+      "note": "14,542 yes, 11,423 no; all 234 precincts"
     },
     {
       "name": "Zionsville Community Schools",
       "county": "Boone",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
+      "yes": 69.1,
+      "no": 30.9,
       "status": "passed",
-      "source": "WRTV",
-      "asOf": "3:46 AM"
+      "source": "Boone County via Current Publishing",
+      "asOf": "9:12 PM Nov 3",
+      "pctIn": 100,
+      "note": "11,054 yes, 4,947 no; all 53 precincts"
     }
   ]
 }
