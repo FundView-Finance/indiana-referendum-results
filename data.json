@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T03:57:00-05:00",
-  "updatedLabel": "3:57 AM ET, November 4, 2026",
+  "updated": "2026-11-04T06:41:00-05:00",
+  "updatedLabel": "6:41 AM ET, November 4, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -135,11 +135,13 @@
       "name": "Frontier School Corporation",
       "county": "White",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 66,
+      "no": 34,
+      "status": "passed",
+      "source": "Monticello Herald Journal",
+      "asOf": "all 19 precincts",
+      "pctIn": 100,
+      "note": "941 yes, 484 no"
     },
     {
       "name": "Hamilton Southeastern Schools",
@@ -168,11 +170,13 @@
       "name": "Michigan City Area Schools",
       "county": "LaPorte, Porter",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 47.3,
+      "no": 52.7,
+      "status": "leading",
+      "source": "95.3 MNC / LaPorte County",
+      "asOf": "6:35 AM",
+      "pctIn": 80,
+      "note": "74 of 92 precincts"
     },
     {
       "name": "Mississinewa Community School Corporation",
@@ -200,11 +204,12 @@
       "name": "MSD of Shakamak",
       "county": "Greene, Clay",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 49.6,
+      "no": 50.4,
+      "status": "leading",
+      "source": "Greene County early report",
+      "asOf": "7:51 PM Nov 3",
+      "note": "Greene County portion only; Clay County not yet reported"
     },
     {
       "name": "MSD of Washington Township",
@@ -379,21 +384,24 @@
       "name": "Union Township School Corporation",
       "county": "Porter",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 63.9,
+      "no": 36.1,
+      "status": "leading",
+      "source": "Porter County unofficial",
+      "asOf": "6:35 AM",
+      "note": "1,548 yes, 874 no"
     },
     {
       "name": "Wa-Nee Community Schools",
       "county": "Elkhart, Kosciusko",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 61,
+      "no": 39,
+      "status": "leading",
+      "source": "95.3 MNC",
+      "asOf": "6:35 AM",
+      "pctIn": 79,
+      "note": "23 of 29 precincts"
     },
     {
       "name": "West Lafayette Community School Corporation",
@@ -401,9 +409,10 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "passed",
+      "source": "Purdue Exponent",
+      "asOf": "Nov 3 night",
+      "note": "Voters approved; county totals not yet published"
     },
     {
       "name": "Westfield Washington Schools",
