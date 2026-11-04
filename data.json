@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T21:20:00-05:00",
-  "updatedLabel": "9:20 PM ET, November 3, 2026",
+  "updated": "2026-11-03T21:05:00-05:00",
+  "updatedLabel": "9:05 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -182,7 +182,7 @@
       "no": 57,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:15 PM",
+      "asOf": "about 9:00 PM",
       "pctIn": 47,
       "note": "Percentages are approximate"
     },
