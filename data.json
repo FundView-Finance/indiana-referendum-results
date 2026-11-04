@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T22:42:00-05:00",
-  "updatedLabel": "10:42 PM ET, November 3, 2026",
+  "updated": "2026-11-03T23:12:00-05:00",
+  "updatedLabel": "11:12 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -71,9 +71,10 @@
       "kind": "Operating",
       "yes": 60,
       "no": 40,
-      "status": "leading",
+      "status": "passed",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "Called by WRTV 11:06 PM; 60.0% yes on IASBO count at 8:40 PM"
     },
     {
       "name": "Clark-Pleasant Community School Corporation",
@@ -156,10 +157,11 @@
       "kind": "Operating",
       "yes": 62.6,
       "no": 37.4,
-      "status": "leading",
+      "status": "passed",
       "source": "Chalkbeat",
       "asOf": "10:32 PM",
-      "pctIn": 91
+      "pctIn": 91,
+      "note": "Called by WRTV 11:06 PM"
     },
     {
       "name": "Michigan City Area Schools",
@@ -308,9 +310,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "failed",
+      "source": "WRTV",
+      "asOf": "11:06 PM"
     },
     {
       "name": "Shelbyville Central Schools",
@@ -410,9 +412,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "11:06 PM"
     },
     {
       "name": "Zionsville Community Schools",
