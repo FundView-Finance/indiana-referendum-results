@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T21:05:00-05:00",
-  "updatedLabel": "9:05 PM ET, November 3, 2026",
+  "updated": "2026-11-03T21:11:00-05:00",
+  "updatedLabel": "9:11 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -61,7 +61,7 @@
       "status": "leading",
       "source": "IASBO",
       "asOf": "8:40 PM",
-      "pctIn": 47
+      "pctIn": 62
     },
     {
       "name": "Carmel Clay Schools",
@@ -152,7 +152,7 @@
       "status": "leading",
       "source": "Chalkbeat",
       "asOf": "8:35 PM",
-      "pctIn": 47
+      "pctIn": 62
     },
     {
       "name": "Michigan City Area Schools",
@@ -182,8 +182,8 @@
       "no": 57,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "about 9:00 PM",
-      "pctIn": 47,
+      "asOf": "9:10 PM",
+      "pctIn": 62,
       "note": "Percentages are approximate"
     },
     {
@@ -205,19 +205,19 @@
       "status": "leading",
       "source": "IASBO",
       "asOf": "8:40 PM",
-      "pctIn": 47
+      "pctIn": 62
     },
     {
       "name": "MSD of Wayne Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 50.5,
-      "no": 49.5,
+      "yes": 51,
+      "no": 49,
       "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "pctIn": 47,
-      "note": "Close"
+      "source": "Mirror Indy",
+      "asOf": "9:10 PM",
+      "pctIn": 62,
+      "note": "Close; percentages are approximate"
     },
     {
       "name": "Noblesville Schools",
