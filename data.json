@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T22:12:00-05:00",
-  "updatedLabel": "10:12 PM ET, November 3, 2026",
+  "updated": "2026-11-03T22:27:00-05:00",
+  "updatedLabel": "10:27 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -233,9 +233,10 @@
       "kind": "Operating",
       "yes": 58.4,
       "no": 41.6,
-      "status": "leading",
+      "status": "passed",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "Called by WRTV 10:22 PM; 58.4% yes on IASBO count at 8:40 PM"
     },
     {
       "name": "Oak Hill United School Corporation",
