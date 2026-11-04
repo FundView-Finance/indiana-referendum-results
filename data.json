@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T22:27:00-05:00",
-  "updatedLabel": "10:27 PM ET, November 3, 2026",
+  "updated": "2026-11-03T22:42:00-05:00",
+  "updatedLabel": "10:42 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -38,9 +38,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "10:28 PM"
     },
     {
       "name": "Bartholomew Consolidated School Corporation",
@@ -61,8 +61,8 @@
       "no": 40,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:50 PM",
-      "pctIn": 76,
+      "asOf": "10:40 PM",
+      "pctIn": 91,
       "note": "Percentages are approximate"
     },
     {
@@ -154,12 +154,12 @@
       "name": "Indianapolis Public Schools",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 62.4,
-      "no": 37.6,
+      "yes": 62.6,
+      "no": 37.4,
       "status": "leading",
       "source": "Chalkbeat",
-      "asOf": "9:38 PM",
-      "pctIn": 76
+      "asOf": "10:32 PM",
+      "pctIn": 91
     },
     {
       "name": "Michigan City Area Schools",
@@ -185,12 +185,12 @@
       "name": "MSD of Decatur Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 46,
-      "no": 54,
+      "yes": 47,
+      "no": 53,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:50 PM",
-      "pctIn": 76,
+      "asOf": "10:40 PM",
+      "pctIn": 91,
       "note": "Percentages are approximate"
     },
     {
@@ -207,24 +207,24 @@
       "name": "MSD of Washington Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 65,
-      "no": 35,
+      "yes": 66,
+      "no": 34,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:50 PM",
-      "pctIn": 76,
+      "asOf": "10:40 PM",
+      "pctIn": 91,
       "note": "Percentages are approximate"
     },
     {
       "name": "MSD of Wayne Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 51,
-      "no": 49,
+      "yes": 53,
+      "no": 47,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:50 PM",
-      "pctIn": 76,
+      "asOf": "10:40 PM",
+      "pctIn": 91,
       "note": "Close; percentages are approximate"
     },
     {
@@ -358,9 +358,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "failed",
+      "source": "WRTV",
+      "asOf": "10:28 PM"
     },
     {
       "name": "Tri-Creek School Corporation",
