@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T23:12:00-05:00",
-  "updatedLabel": "11:12 PM ET, November 3, 2026",
+  "updated": "2026-11-03T23:57:00-05:00",
+  "updatedLabel": "11:57 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -57,13 +57,12 @@
       "name": "Beech Grove City Schools",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 60,
-      "no": 40,
-      "status": "leading",
+      "yes": 59,
+      "no": 41,
+      "status": "passed",
       "source": "Mirror Indy",
-      "asOf": "10:40 PM",
-      "pctIn": 91,
-      "note": "Percentages are approximate"
+      "asOf": "11:55 PM",
+      "note": "Unofficial county count; percentages are approximate"
     },
     {
       "name": "Carmel Clay Schools",
@@ -94,9 +93,9 @@
       "no": 47.3,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "9:49 PM",
-      "pctIn": 86,
-      "note": "289 of 336 county precincts reporting"
+      "asOf": "11:49 PM",
+      "pctIn": 99,
+      "note": "334 of 336 county precincts reporting"
     },
     {
       "name": "Culver Community School Corporation",
@@ -155,12 +154,11 @@
       "name": "Indianapolis Public Schools",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 62.6,
-      "no": 37.4,
+      "yes": 63,
+      "no": 37,
       "status": "passed",
       "source": "Chalkbeat",
-      "asOf": "10:32 PM",
-      "pctIn": 91,
+      "asOf": "11:55 PM",
       "note": "Called by WRTV 11:06 PM"
     },
     {
@@ -189,11 +187,10 @@
       "kind": "Operating",
       "yes": 47,
       "no": 53,
-      "status": "leading",
+      "status": "failed",
       "source": "Mirror Indy",
-      "asOf": "10:40 PM",
-      "pctIn": 91,
-      "note": "Percentages are approximate"
+      "asOf": "11:55 PM",
+      "note": "Unofficial county count; percentages are approximate"
     },
     {
       "name": "MSD of Shakamak",
@@ -209,13 +206,12 @@
       "name": "MSD of Washington Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 66,
-      "no": 34,
-      "status": "leading",
+      "yes": 67,
+      "no": 33,
+      "status": "passed",
       "source": "Mirror Indy",
-      "asOf": "10:40 PM",
-      "pctIn": 91,
-      "note": "Percentages are approximate"
+      "asOf": "11:55 PM",
+      "note": "Unofficial county count; percentages are approximate"
     },
     {
       "name": "MSD of Wayne Township",
@@ -223,11 +219,10 @@
       "kind": "Operating",
       "yes": 53,
       "no": 47,
-      "status": "leading",
+      "status": "passed",
       "source": "Mirror Indy",
-      "asOf": "10:40 PM",
-      "pctIn": 91,
-      "note": "Close; percentages are approximate"
+      "asOf": "11:55 PM",
+      "note": "Unofficial county count; percentages are approximate"
     },
     {
       "name": "Noblesville Schools",
@@ -288,9 +283,9 @@
       "no": 40.5,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "9:49 PM",
-      "pctIn": 86,
-      "note": "289 of 336 county precincts reporting"
+      "asOf": "11:49 PM",
+      "pctIn": 99,
+      "note": "334 of 336 county precincts reporting"
     },
     {
       "name": "School City of Whiting",
@@ -300,9 +295,9 @@
       "no": 42.6,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "9:49 PM",
-      "pctIn": 86,
-      "note": "289 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 61.8% yes"
+      "asOf": "11:49 PM",
+      "pctIn": 99,
+      "note": "334 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 61.8% yes"
     },
     {
       "name": "Sheridan Community Schools",
@@ -372,9 +367,9 @@
       "no": 44.5,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "9:49 PM",
-      "pctIn": 86,
-      "note": "289 of 336 county precincts reporting"
+      "asOf": "11:49 PM",
+      "pctIn": 99,
+      "note": "334 of 336 county precincts reporting"
     },
     {
       "name": "Union Township School Corporation",
