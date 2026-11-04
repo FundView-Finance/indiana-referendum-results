@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-04T13:41:12Z",
-  "updatedLabel": "8:41 AM ET, November 4, 2026",
+  "updated": "2026-11-04T15:37:37Z",
+  "updatedLabel": "10:37 AM ET, November 4, 2026",
   "election": "November 3, 2026 general election",
-  "note": "All results are unofficial until each county certifies. Percentages come from county election reports where published, otherwise from the news outlets named on each row; early-evening counts are flagged. A district is marked passed or failed when the county count is complete or a statewide tracker has called it. Eminence Community Schools withdrew its question before the election.",
+  "note": "All 38 districts are decided. Results are unofficial until each county certifies. Percentages come from county election reports where published, otherwise from the news outlets named on each row; early-evening counts are flagged. A district is marked passed or failed when the county count is complete or a statewide tracker has called it. Eminence Community Schools withdrew its question before the election.",
   "sources": [
     {
       "name": "WRTV statewide referendum tracker",
@@ -141,10 +141,10 @@
       "kind": "Operating",
       "yes": 56.9,
       "no": 43.1,
-      "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "IASBO early count; Starke County portion final at 173 yes, 218 no; Marshall, Pulaski and Fulton county totals not yet published"
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "10:14 AM Nov 4",
+      "note": "Called approved by WRTV; percentages are the IASBO early count. Starke County portion final at 173 yes, 218 no; Marshall, Pulaski and Fulton county totals not yet published"
     },
     {
       "name": "Elwood Community School Corporation",
@@ -289,12 +289,13 @@
       "name": "Oak Hill United School Corporation",
       "county": "Grant, Miami",
       "kind": "Operating",
-      "yes": 49.8,
-      "no": 50.2,
-      "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "note": "IASBO early count; Grant and Miami county totals not yet published"
+      "yes": null,
+      "no": null,
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "10:14 AM Nov 4",
+      "note": "Called approved by WRTV; the IASBO early count had it narrowly behind, so percentages are withheld until Grant and Miami counties publish totals",
+      "pctIn": null
     },
     {
       "name": "Oregon-Davis School Corporation",
@@ -384,10 +385,10 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": "",
-      "note": "Noble and Whitley county totals not yet published"
+      "status": "failed",
+      "source": "WRTV",
+      "asOf": "10:14 AM Nov 4",
+      "note": "Called denied by WRTV; Noble and Whitley county totals not yet published"
     },
     {
       "name": "Southeast Dubois County School Corporation",
@@ -451,11 +452,11 @@
       "kind": "School safety",
       "yes": 61,
       "no": 39,
-      "status": "leading",
-      "source": "95.3 MNC",
-      "asOf": "6:35 AM",
+      "status": "passed",
+      "source": "WRTV / 95.3 MNC",
+      "asOf": "10:14 AM Nov 4",
       "pctIn": 79,
-      "note": "23 of 29 precincts"
+      "note": "Called approved by WRTV; 2,072 yes, 1,342 no with 23 of 29 Elkhart County precincts; Kosciusko County portion not yet published"
     },
     {
       "name": "West Lafayette Community School Corporation",
