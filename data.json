@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T23:57:00-05:00",
-  "updatedLabel": "11:57 PM ET, November 3, 2026",
+  "updated": "2026-11-04T00:14:00-05:00",
+  "updatedLabel": "12:14 AM ET, November 4, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -124,9 +124,10 @@
       "kind": "Operating",
       "yes": 49.8,
       "no": 50.2,
-      "status": "leading",
+      "status": "failed",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "Reported narrowly defeated by FOX59; 49.8% yes on IASBO count at 8:40 PM"
     },
     {
       "name": "Frontier School Corporation",
@@ -293,11 +294,11 @@
       "kind": "Construction",
       "yes": 57.4,
       "no": 42.6,
-      "status": "leading",
+      "status": "passed",
       "source": "Lake County Election Board",
       "asOf": "11:49 PM",
       "pctIn": 99,
-      "note": "334 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 61.8% yes"
+      "note": "Called by WRTV 12:09 AM; 334 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 61.8% yes"
     },
     {
       "name": "Sheridan Community Schools",
