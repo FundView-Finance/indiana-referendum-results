@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T00:14:00-05:00",
-  "updatedLabel": "12:14 AM ET, November 4, 2026",
+  "updated": "2026-11-04T03:27:00-05:00",
+  "updatedLabel": "3:27 AM ET, November 4, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -26,11 +26,12 @@
       "name": "Anderson Community School Corporation",
       "county": "Madison",
       "kind": "Operating",
-      "yes": 52.9,
-      "no": 47.1,
-      "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM"
+      "yes": null,
+      "no": null,
+      "status": "failed",
+      "source": "WRTV",
+      "asOf": "3:11 AM",
+      "note": "Called denied by WRTV; it led 52.9% yes on the first county count at 8:40 PM"
     },
     {
       "name": "Barr-Reeve Community Schools",
