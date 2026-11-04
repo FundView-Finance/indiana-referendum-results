@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T21:11:00-05:00",
-  "updatedLabel": "9:11 PM ET, November 3, 2026",
+  "updated": "2026-11-03T21:44:00-05:00",
+  "updatedLabel": "9:44 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -137,21 +137,22 @@
       "name": "Hamilton Southeastern Schools",
       "county": "Hamilton",
       "kind": "Operating",
-      "yes": 59.9,
-      "no": 40.1,
+      "yes": 58.4,
+      "no": 41.6,
       "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM"
+      "source": "Hamilton County via LarryInFishers",
+      "asOf": "9:04 PM",
+      "note": "195 of 234 county precincts reporting"
     },
     {
       "name": "Indianapolis Public Schools",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 61.7,
-      "no": 38.3,
+      "yes": 62.4,
+      "no": 37.6,
       "status": "leading",
       "source": "Chalkbeat",
-      "asOf": "8:35 PM",
+      "asOf": "9:38 PM",
       "pctIn": 62
     },
     {
