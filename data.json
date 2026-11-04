@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T21:47:00-05:00",
-  "updatedLabel": "9:47 PM ET, November 3, 2026",
+  "updated": "2026-11-03T21:57:00-05:00",
+  "updatedLabel": "9:57 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -56,12 +56,13 @@
       "name": "Beech Grove City Schools",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 59.3,
-      "no": 40.7,
+      "yes": 60,
+      "no": 40,
       "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "pctIn": 62
+      "source": "Mirror Indy",
+      "asOf": "9:50 PM",
+      "pctIn": 76,
+      "note": "Percentages are approximate"
     },
     {
       "name": "Carmel Clay Schools",
@@ -87,13 +88,13 @@
       "name": "Crown Point Community School Corporation",
       "county": "Lake",
       "kind": "Operating",
-      "yes": 53.2,
-      "no": 46.8,
+      "yes": 53,
+      "no": 47,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "8:37 PM",
-      "pctIn": 17,
-      "note": "58 of 336 county precincts reporting"
+      "asOf": "9:23 PM",
+      "pctIn": 51,
+      "note": "172 of 336 county precincts reporting"
     },
     {
       "name": "Culver Community School Corporation",
@@ -139,12 +140,13 @@
       "name": "Hamilton Southeastern Schools",
       "county": "Hamilton",
       "kind": "Operating",
-      "yes": 58.4,
-      "no": 41.6,
+      "yes": 58.3,
+      "no": 41.7,
       "status": "leading",
       "source": "Hamilton County via LarryInFishers",
-      "asOf": "9:04 PM",
-      "note": "195 of 234 county precincts reporting"
+      "asOf": "9:34 PM",
+      "note": "219 of 234 county precincts reporting",
+      "pctIn": 94
     },
     {
       "name": "Indianapolis Public Schools",
@@ -155,7 +157,7 @@
       "status": "leading",
       "source": "Chalkbeat",
       "asOf": "9:38 PM",
-      "pctIn": 62
+      "pctIn": 76
     },
     {
       "name": "Michigan City Area Schools",
@@ -181,12 +183,12 @@
       "name": "MSD of Decatur Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 43,
-      "no": 57,
+      "yes": 46,
+      "no": 54,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:10 PM",
-      "pctIn": 62,
+      "asOf": "9:50 PM",
+      "pctIn": 76,
       "note": "Percentages are approximate"
     },
     {
@@ -203,12 +205,13 @@
       "name": "MSD of Washington Township",
       "county": "Marion",
       "kind": "Operating",
-      "yes": 70.8,
-      "no": 29.2,
+      "yes": 65,
+      "no": 35,
       "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM",
-      "pctIn": 62
+      "source": "Mirror Indy",
+      "asOf": "9:50 PM",
+      "pctIn": 76,
+      "note": "Percentages are approximate"
     },
     {
       "name": "MSD of Wayne Township",
@@ -218,8 +221,8 @@
       "no": 49,
       "status": "leading",
       "source": "Mirror Indy",
-      "asOf": "9:10 PM",
-      "pctIn": 62,
+      "asOf": "9:50 PM",
+      "pctIn": 76,
       "note": "Close; percentages are approximate"
     },
     {
@@ -276,25 +279,25 @@
       "name": "River Forest Community School Corporation",
       "county": "Lake",
       "kind": "Operating",
-      "yes": 57.5,
-      "no": 42.5,
+      "yes": 57.9,
+      "no": 42.1,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "8:37 PM",
-      "pctIn": 17,
-      "note": "58 of 336 county precincts reporting"
+      "asOf": "9:23 PM",
+      "pctIn": 51,
+      "note": "172 of 336 county precincts reporting"
     },
     {
       "name": "School City of Whiting",
       "county": "Lake",
       "kind": "Construction",
-      "yes": 53,
-      "no": 47,
+      "yes": 57.4,
+      "no": 42.6,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "8:37 PM",
-      "pctIn": 17,
-      "note": "58 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 59.7% yes"
+      "asOf": "9:23 PM",
+      "pctIn": 51,
+      "note": "172 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 61.8% yes"
     },
     {
       "name": "Sheridan Community Schools",
@@ -360,13 +363,13 @@
       "name": "Tri-Creek School Corporation",
       "county": "Lake",
       "kind": "Operating",
-      "yes": 58.7,
-      "no": 41.3,
+      "yes": 57,
+      "no": 43,
       "status": "leading",
       "source": "Lake County Election Board",
-      "asOf": "8:37 PM",
-      "pctIn": 17,
-      "note": "58 of 336 county precincts reporting"
+      "asOf": "9:23 PM",
+      "pctIn": 51,
+      "note": "172 of 336 county precincts reporting"
     },
     {
       "name": "Union Township School Corporation",
