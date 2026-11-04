@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T03:27:00-05:00",
-  "updatedLabel": "3:27 AM ET, November 4, 2026",
+  "updated": "2026-11-04T03:57:00-05:00",
+  "updatedLabel": "3:57 AM ET, November 4, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -82,9 +82,10 @@
       "kind": "Operating",
       "yes": 54.9,
       "no": 45.1,
-      "status": "leading",
+      "status": "passed",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "Called by WRTV 3:46 AM"
     },
     {
       "name": "Crown Point Community School Corporation",
@@ -92,11 +93,11 @@
       "kind": "Operating",
       "yes": 52.7,
       "no": 47.3,
-      "status": "leading",
+      "status": "passed",
       "source": "Lake County Election Board",
       "asOf": "11:49 PM",
       "pctIn": 99,
-      "note": "334 of 336 county precincts reporting"
+      "note": "Called by WRTV 3:46 AM"
     },
     {
       "name": "Culver Community School Corporation",
@@ -179,9 +180,10 @@
       "kind": "Operating",
       "yes": 49.9,
       "no": 50.1,
-      "status": "leading",
+      "status": "failed",
       "source": "IASBO",
-      "asOf": "8:40 PM"
+      "asOf": "8:40 PM",
+      "note": "Called by WRTV 3:46 AM; 49.9% yes on IASBO count at 8:40 PM"
     },
     {
       "name": "MSD of Decatur Township",
@@ -253,9 +255,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "3:46 AM"
     },
     {
       "name": "Pike County School Corporation",
@@ -263,9 +265,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "failed",
+      "source": "WRTV",
+      "asOf": "3:46 AM"
     },
     {
       "name": "Porter Township School Corporation",
@@ -273,9 +275,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "3:46 AM"
     },
     {
       "name": "River Forest Community School Corporation",
@@ -283,11 +285,11 @@
       "kind": "Operating",
       "yes": 59.5,
       "no": 40.5,
-      "status": "leading",
+      "status": "passed",
       "source": "Lake County Election Board",
       "asOf": "11:49 PM",
       "pctIn": 99,
-      "note": "334 of 336 county precincts reporting"
+      "note": "Called by WRTV 3:46 AM"
     },
     {
       "name": "School City of Whiting",
@@ -367,11 +369,11 @@
       "kind": "Operating",
       "yes": 55.5,
       "no": 44.5,
-      "status": "leading",
+      "status": "passed",
       "source": "Lake County Election Board",
       "asOf": "11:49 PM",
       "pctIn": 99,
-      "note": "334 of 336 county precincts reporting"
+      "note": "Called by WRTV 3:46 AM"
     },
     {
       "name": "Union Township School Corporation",
@@ -419,9 +421,9 @@
       "kind": "Operating",
       "yes": null,
       "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "status": "passed",
+      "source": "WRTV",
+      "asOf": "3:46 AM"
     }
   ]
 }
