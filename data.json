@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03T21:44:00-05:00",
-  "updatedLabel": "9:44 PM ET, November 3, 2026",
+  "updated": "2026-11-03T21:47:00-05:00",
+  "updatedLabel": "9:47 PM ET, November 3, 2026",
   "election": "November 3, 2026 general election",
   "note": "All results are unofficial until each county certifies. Percentages are the latest county tallies as reported by the sources named on each row. Eminence Community Schools withdrew its question before the election.",
   "sources": [
@@ -87,11 +87,13 @@
       "name": "Crown Point Community School Corporation",
       "county": "Lake",
       "kind": "Operating",
-      "yes": 53,
-      "no": 47,
+      "yes": 53.2,
+      "no": 46.8,
       "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM"
+      "source": "Lake County Election Board",
+      "asOf": "8:37 PM",
+      "pctIn": 17,
+      "note": "58 of 336 county precincts reporting"
     },
     {
       "name": "Culver Community School Corporation",
@@ -274,21 +276,25 @@
       "name": "River Forest Community School Corporation",
       "county": "Lake",
       "kind": "Operating",
-      "yes": 56,
-      "no": 44,
+      "yes": 57.5,
+      "no": 42.5,
       "status": "leading",
-      "source": "IASBO",
-      "asOf": "8:40 PM"
+      "source": "Lake County Election Board",
+      "asOf": "8:37 PM",
+      "pctIn": 17,
+      "note": "58 of 336 county precincts reporting"
     },
     {
       "name": "School City of Whiting",
       "county": "Lake",
       "kind": "Construction",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 53,
+      "no": 47,
+      "status": "leading",
+      "source": "Lake County Election Board",
+      "asOf": "8:37 PM",
+      "pctIn": 17,
+      "note": "58 of 336 county precincts reporting; Whiting has two questions on the ballot, the other is at 59.7% yes"
     },
     {
       "name": "Sheridan Community Schools",
@@ -354,11 +360,13 @@
       "name": "Tri-Creek School Corporation",
       "county": "Lake",
       "kind": "Operating",
-      "yes": null,
-      "no": null,
-      "status": "counting",
-      "source": "",
-      "asOf": ""
+      "yes": 58.7,
+      "no": 41.3,
+      "status": "leading",
+      "source": "Lake County Election Board",
+      "asOf": "8:37 PM",
+      "pctIn": 17,
+      "note": "58 of 336 county precincts reporting"
     },
     {
       "name": "Union Township School Corporation",
